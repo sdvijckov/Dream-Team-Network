@@ -1,0 +1,30 @@
+# Веб-интерфейс (опционально, если понадобится позже)
+# gradio>=3.50.0
+streamlit>=1.28.0
+
+# Векторное хранилище
+chromadb>=0.4.0
+
+# Эмбеддинги
+sentence-transformers>=2.2.0
+
+# NLP для русского языка
+nltk>=3.8.0
+pymorphy3>=0.0.2
+pymorphy3-dicts-ru
+
+# Работа с .docx
+python-docx>=1.0.0
+
+# Утилиты
+tqdm>=4.65.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+chardet>=5.0.0
+
+# CLI
+click>=8.1.0
+
+# Для LLM API (раскомментировать когда понадобится)
+# google-generativeai>=0.3.0
+# openai>=1.0.0

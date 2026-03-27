@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Обработанные данные (генерируемые)
+processed/*.json
+vectors/
+
+# .env с API ключами
+.env
+*.env
+
+# Логи
+*.log
+process_log_*.txt
+
+# Временные файлы
+*.tmp
+*.bak
